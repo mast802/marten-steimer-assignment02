@@ -1,3 +1,10 @@
+/**
+ * Assignment 2
+ * Author: Mårten Steimer
+ * Date: 2021-03-12 
+ *  
+ */
+
 package com.nackademin.marten_steimer_assignment02;
 
 public class Main {
