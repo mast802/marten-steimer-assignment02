@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="231" started-at="2021-03-15T07:07:30Z" finished-at="2021-03-15T07:07:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="231" started-at="2021-03-15T07:07:30Z" finished-at="2021-03-15T07:07:30Z">
+      <class name="com.nackademin.marten_steimer_assignment02.BasicCalculatorTest">
+        <test-method status="PASS" signature="testMultiplication()[pri:0, instance:testMultiplication(com.nackademin.marten_steimer_assignment02.BasicCalculatorTest)]" name="testMultiplication" duration-ms="43" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiplication -->
+        <test-method status="PASS" signature="testAddition()[pri:0, instance:testAddition(com.nackademin.marten_steimer_assignment02.BasicCalculatorTest)]" name="testAddition" duration-ms="29" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method status="PASS" signature="testDivision()[pri:0, instance:testDivision(com.nackademin.marten_steimer_assignment02.BasicCalculatorTest)]" name="testDivision" duration-ms="21" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method status="PASS" signature="testSubtraction()[pri:0, instance:testSubtraction(com.nackademin.marten_steimer_assignment02.BasicCalculatorTest)]" name="testSubtraction" duration-ms="11" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+      </class> <!-- com.nackademin.marten_steimer_assignment02.BasicCalculatorTest -->
+      <class name="com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest">
+        <test-method status="PASS" signature="testLogarithm()[pri:0, instance:testLogarithm(com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest)]" name="testLogarithm" duration-ms="6" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogarithm -->
+        <test-method status="PASS" signature="testPowerOf()[pri:0, instance:testPowerOf(com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest)]" name="testPowerOf" duration-ms="9" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPowerOf -->
+        <test-method status="PASS" signature="testsquareRoot()[pri:0, instance:testsquareRoot(com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest)]" name="testsquareRoot" duration-ms="4" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsquareRoot -->
+        <test-method status="PASS" signature="testabsoluteValue()[pri:0, instance:testabsoluteValue(com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest)]" name="testabsoluteValue" duration-ms="8" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testabsoluteValue -->
+        <test-method status="PASS" signature="testSquare()[pri:0, instance:testSquare(com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest)]" name="testSquare" duration-ms="6" started-at="2021-03-15T08:07:30Z" finished-at="2021-03-15T08:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSquare -->
+      </class> <!-- com.nackademin.marten_steimer_assignment02.AdvancedCalculatorTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
